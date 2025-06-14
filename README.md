@@ -3,9 +3,8 @@
 🎓 Final-year Computer Science student at **IIIT Manipur**
 💡 Passionate about building real-world solutions with code  
 🚀 Currently exploring **Android development**, **AI/ML**, and **Web Development**
-
----
 <!--
+---
 ### 🛠️ Projects I'm Working On
 
 - 📲 **ShareApp** – A cross-platform file-sharing app (Android, Windows, Linux)

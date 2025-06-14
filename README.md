@@ -27,7 +27,7 @@
 
 ### 📈 GitHub Stats
 
-![Vikas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vikaskumar&show_icons=true&theme=radical)
+![Vikas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VikasGari&show_icons=true&theme=radical)
 
 ---
 
